@@ -25,20 +25,20 @@
         android:hint="Update Email"
         android:editable="false"/>
     <EditText
-        android:id="@+id/input_passwordku"
+        android:id="@+id/input_namaku"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Update Password"/>
+        android:hint="Update Name"/>
     <EditText
         android:id="@+id/input_usernameku"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:hint="Update Username (NIM)"/>
     <EditText
-        android:id="@+id/input_namaku"
+        android:id="@+id/input_passwordku"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Update Name"/>
+        android:hint="Update Password"/>
 
     <LinearLayout
         android:layout_width="match_parent"
